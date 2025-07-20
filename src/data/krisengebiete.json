@@ -1,0 +1,10 @@
+[
+  { "value": "germany",      "label": "Deutschland" },
+  { "value": "ukraine",      "label": "Osteuropa (z.B. Ukraine)" },
+  { "value": "france",       "label": "Westeuropa (z.B. Frankreich, Spanien, Italien)" },
+  { "value": "kenya",        "label": "Ostafrika (z.B. Kenia, Uganda, Tansania)" },
+  { "value": "ghana",        "label": "Westafrika (z.B. Ghana, Nigeria)" },
+  { "value": "morocco",      "label": "Nordafrika (z.B. Marokko, Tunesien)" },
+  { "value": "south_africa", "label": "Südafrika" },
+  { "value": "syria",        "label": "Naher Osten (z.B. Syrien, Irak)" }
+]
